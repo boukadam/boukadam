@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://bannershake.com/svg?bs=l&ls=l&c=%23E3F2FD&b=https:%2F%2Favatars.githubusercontent.com%2Fu%2F4223990?v=4&s=java,spring,projectreactor,vue,vuetifyjs,maven,lombok,github,github-actions,bash,gitlab,linux-tux,postgresql,couchbase,kafka,rabbitmq,mongodb,drools,swagger,docker,oauth,ansible,jenkins,karate,kubernetes,ruleshake)
+![](https://api.bannershake.com/svg?bs=l&ls=l&c=%23E3F2FD&b=https:%2F%2Favatars.githubusercontent.com%2Fu%2F4223990?v=4&s=java,spring,projectreactor,vue,vuetifyjs,maven,lombok,github,github-actions,bash,gitlab,linux-tux,postgresql,couchbase,kafka,rabbitmq,mongodb,drools,swagger,docker,oauth,ansible,jenkins,karate,kubernetes,ruleshake)
 
 📫 How to reach me:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/boukadam)
